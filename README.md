@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Lucien<br>I'm passionate about Cybersecurity and Cloud Computing.<br><br>🔐 Exploring security tools, CTFs, and ethical hacking<br><br>💻 Currently learning Kubernetes & cloud technologies<br><br>🚀 Love solving problems and experimenting with new tech<br><br>🎯 Goal: Becoming a skilled Cyber Security Engineer<br><br>"Code. Break. Secure. Repeat."
+Hi there 👋 I'm Faiz Aidil Baihaqi<br>I'm passionate about Cybersecurity and Cloud Computing.<br><br>🔐 Exploring security tools, CTFs, and ethical hacking<br><br>💻 Currently learning Kubernetes & cloud technologies<br><br>🚀 Love solving problems and experimenting with new tech<br><br>🎯 Goal: Becoming a skilled Cyber Security Engineer<br><br>"Code. Break. Secure. Repeat."
 
 
 ## 🌐 Socials:
